@@ -1,0 +1,6 @@
+@estetica_bemestar_HostAddress = http://localhost:5083
+
+GET {{estetica_bemestar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
